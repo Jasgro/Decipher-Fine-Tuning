@@ -83,6 +83,6 @@ python batch_survey_processor.py
 python training_data_generator.py
 ```
 
-[Add your contact information here]
+
 
 
