@@ -83,23 +83,6 @@ python batch_survey_processor.py
 python training_data_generator.py
 ```
 
-## Data Privacy
-
-**Note:** This repository contains only the code scripts. No survey data, API keys, or sensitive information is included. Users must provide their own Decipher API credentials and data.
-
-## License
-
-[Add your license information here]
-
-## Citation
-
-If you use these scripts in your research, please cite:
-
-```
-[Add your citation information here]
-```
-
-## Contact
-
 [Add your contact information here]
+
 
