@@ -24,7 +24,7 @@ def test_direct_download():
     if not tester.extract_cookies():
         return False
     
-    # Test with the Clearwater Analytics project
+
     project_id = "250741"
     base_url = "https://sw2.decipherinc.com"
     
@@ -126,4 +126,5 @@ def test_direct_download():
 
 if __name__ == '__main__':
     test_direct_download()
+
 
